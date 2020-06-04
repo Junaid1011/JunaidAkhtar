@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 100%;
+
+
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;    /*100%=16px*/
+    margin: 50px auto 0 auto;
+  color: #66bfbf;
+
+}
+
+.satcolor{
+  color: #66bfbf;
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 2;
+}
+.footer-link{
+  color: #11999e;
+  font-weight: bolder;
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+h2{
+  font-family: 'Carter One', cursive;
+  color: #66BFBF;
+}
+h3{
+  color: #11999e;
+
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+}
+div{
+    background-color: #fff;
+
+
+}
+.top-corner{
+
+  background-color:#e0ebe8;
+  position: relative;
+  padding-top: 50px;
+}
+.programming{
+  position: relative;
+  right: 500px;
+  width: 5%;
+  height: auto;
+
+
+}
+
+/*loudbottam*/
+.bottam{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+/*/*loudtop*/
+.top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+/*skillwidth*/
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.coding-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.computer-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+/*paragraph will clear left side
+.code-para{
+  clear: left;
+}
+*/
+.Btn {
+	background-color:#66bfbf;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:'Architects Daughter', cursive;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0 #2f6627;
+}
+.Btn:hover {
+	background-color:#5cbf2a;
+}.Btn:active {
+	position:relative;
+	top:1px;
+  margin-top: 30px;
+}
+p{
+  color: #5a3f11;
+  
+}
+
+hr{
+  border-style: dotted none none;
+  width: 5%;
+  color: grey;
+  background-color: #fff;
+  border-width: 5px;
+}
